@@ -64,7 +64,7 @@ I'm deeply interested in how technology, data, and systems can be combined to so
 ---
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Kthalvs">
     <img src="https://github-readme-stats.vercel.app/api?username=Kthalvs&show_icons=true&theme=radical"/>
   </a>
 </p>
