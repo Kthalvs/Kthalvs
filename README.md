@@ -1,7 +1,7 @@
 <h1 align="center">Kathline 👋</h1>
 
 <div align="center">
-  <img height="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+  <img height="300" width="500" alt="Cat GIF" align="center" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 </div>
 
 </br>
