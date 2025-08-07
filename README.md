@@ -1,4 +1,4 @@
-<h1 align="center">Kathline 👋</h1>
+<h1 align="center">Hello 👋</h1>
 
 <div align="center">
   <img height="300" width="500" alt="Cat GIF" align="center" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
@@ -6,19 +6,16 @@
 
 </br>
 
-<h1 align="center">Hi 👋, I'm Kathline</h1>
+<h1 align="center">I'm Kathline</h1>
 <h3 align="center">BSIS Student</h3>
 
 ---
 # About ME 💬 :
 
-### - I'm 20 years I'm interested in sports like badminton, volleyball etc.
+### - Hi! I'm Kathline Alvarado, a passionate and driven Bachelor of Science in Information Systems (BSIS) student.
+I'm deeply interested in how technology, data, and systems can be combined to solve real-world problems, improve processes, and create meaningful digital experiences.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ 
 
 ### - Hobbies : 
 - ✨ Eating
@@ -29,28 +26,16 @@
 </br>
 </br>
 </br>
-## 👯 I’m looking to collaborate on:
-- **Open Source UI Projects**  
-  🔗 [My GitHub](https://github.com/Kthalvs/Kthalvs.git)
-
-## 🤝 I’m looking for help with:
-- Learning Laravel with API integration  
-  🔗 [Connect with me](mailto:alvaradokathline@gmail.com)
 
 ## 🌱 I’m currently learning:
-- Laravel, Backend, Figma
-
-## 💬 Ask me about:
-- React, Vue, GSAP, HTML, CSS
+- Figma
 
 ## 📫 How to reach me:
 - Email: **alvaradokathline@gmail.com**
+- linkedIn: **www.linkedin.com/in/kathline-joy-alvarado-15325a301**
 
 ## 👨‍💻 All of my projects are available at:
 - 🔗 [GitHub Portfolio](https://github.com/Kthalvs/Kthalvs.git)
-
-## 📝 I regularly write articles on:
-*(Coming soon...)*
 
 ## ⚡ Fun fact:
 **I think I’m funny… until I debug at 3AM. 😅**
