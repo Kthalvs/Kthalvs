@@ -53,10 +53,6 @@ I'm deeply interested in how technology, data, and systems can be combined to so
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="180" height="50"/> 
 </p>
 
-</br>
-</br>
-</br>
-
 
 ---
 
