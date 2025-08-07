@@ -47,11 +47,7 @@ I'm deeply interested in how technology, data, and systems can be combined to so
 
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="120" height="50"/> 
-
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="50"/> 
 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
