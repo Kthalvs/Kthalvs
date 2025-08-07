@@ -10,23 +10,33 @@
 <h3 align="center">BSIS Student</h3>
 
 ---
+# About ME 💬 :
 
-## 🔭 I’m currently working on:
-- **BSIS Capstone Project**  
-  🔗 [View project](https://github.com/Kthalvs/Kthalvs.git)
+### - I'm 20 years I'm interested in sports like badminton, volleyball etc.
 
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ 
+
+### - Hobbies : 
+- ✨ Eating
+- ✨ Watching Movies
+- ✨ Cooking
+
+
+</br>
+</br>
+</br>
 ## 👯 I’m looking to collaborate on:
 - **Open Source UI Projects**  
   🔗 [My GitHub](https://github.com/Kthalvs/Kthalvs.git)
 
 ## 🤝 I’m looking for help with:
 - Learning Laravel with API integration  
-  🔗 [Connect with me](mailto:HUHU@gmail.com)
+  🔗 [Connect with me](mailto:alvaradokathline@gmail.com)
 
 ## 🌱 I’m currently learning:
-- Laravel, MySQL, Figma  
-- Frontend Frameworks  
-- Basic API Development
+- Laravel, Backend, Figma
 
 ## 💬 Ask me about:
 - React, Vue, GSAP, HTML, CSS
@@ -39,9 +49,6 @@
 
 ## 📝 I regularly write articles on:
 *(Coming soon...)*
-
-## 📄 Know about my experiences:
-*(You can add your resume link here)*
 
 ## ⚡ Fun fact:
 **I think I’m funny… until I debug at 3AM. 😅**
