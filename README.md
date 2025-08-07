@@ -12,20 +12,22 @@
 ---
 # About ME 💬 :
 
-### - Hi! I'm Kathline Alvarado, a passionate and driven Bachelor of Science in Information Systems (BSIS) student.
+### - Hi! I'm Kathline Alvarado, a passionate and driven **Bachelor of Science in Information Systems (BSIS)** student.  
 I'm deeply interested in how technology, data, and systems can be combined to solve real-world problems, improve processes, and create meaningful digital experiences.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+</br>
 
-### - Hobbies : 
-- ✨ Eating
-- ✨ Watching Movies
-- ✨ Cooking
-
+<div align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" height="300" width="400" alt="girl coder gif">
+</div>
 
 </br>
-</br>
-</br>
+
+### - Hobbies :  
+- ✨ Eating  
+- ✨ Watching Movies  
+- ✨ Cooking  
+
 
 ## 🌱 I’m currently learning:
 - Figma
