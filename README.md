@@ -1,28 +1,21 @@
-<h1 align="center">Hello 👋</h1>
-
 <div align="center">
   <img height="300" width="500" alt="Cat GIF" align="center" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 </div>
 
-</br>
+<h3 align="center">I'm Kathline!💜</h3>
 
-<h1 align="center">I'm Kathline</h1>
-<h3 align="center">BSIS Student</h3>
-
----
-# About ME 💬 :
+###  About Me💬 
 
 ### - Hi! I'm Kathline Alvarado, a passionate and driven **Bachelor of Science in Information Systems (BSIS)** student.  
 I'm deeply interested in how technology, data, and systems can be combined to solve real-world problems, improve processes, and create meaningful digital experiences.
 
-</br>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" height="300" width="400" alt="girl coder gif">
 </div>
 
-</br>
-
+---
 
 ### 🏆 GitHub Trophies
 
@@ -32,21 +25,21 @@ I'm deeply interested in how technology, data, and systems can be combined to so
   </a>
 </p>
 
----
 
-
-### - Hobbies :  
+### 🎮Hobbies 
 - ✨ Eating  
 - ✨ Watching Movies  
-- ✨ Cooking  
+- ✨ Cooking
+---
 
- ### -🌱 I’m currently learning:
+ ### 🌱 I’m currently learning
 <p>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="28"/>
 </p>
 
+---
 
-## 📫 How to reach me:
+### 🌐 Socials
 <p align="left">
 
   <a href="https://web.facebook.com/kathlinejoy.alvarado.3" target="_blank" rel="noopener noreferrer">
@@ -61,24 +54,25 @@ I'm deeply interested in how technology, data, and systems can be combined to so
 
 ---
 
-## 👨‍💻 All of my projects are available at:
+ ### 👨‍💻 All of my projecs are available at:
 - 🔗 [GitHub Portfolio](https://github.com/Kthalvs/Kthalvs.git)
 
-## ⚡ Fun fact:
+---
+
+### 📙 Fun Fact
 **I think I’m funny… until I debug at 3AM. 😅**
 
 ---
 
-# Languages & Tools 👨‍💻 🛠:
+#### 💻 Languages & Tools
+</br> 
 <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 </p>
-
 
 ---
 
