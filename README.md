@@ -1,8 +1,11 @@
-<div align="center">
-  <img height="300" width="500" alt="Cat GIF" align="center" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
-</div>
+<p align="center">
+  <img height="300" width="500" alt="Cat GIF" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+</p>
 
-<h3 align="center">I'm Kathline!💜</h3>
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9A1DBB&center=true&vCenter=true&width=435&lines=Hello,+I'm+Kathline!💜" alt="Typing SVG" />
+</p>
 
 ###  About Me💬 
 
@@ -56,6 +59,7 @@ I'm deeply interested in how technology, data, and systems can be combined to so
 
  ### 👨‍💻 All of my projecs are available at:
 - 🔗 [GitHub Portfolio](https://github.com/Kthalvs/Kthalvs.git)
+- 📫 Reach me at: **alvaradokathline@gmail.com**
 
 ---
 
@@ -72,6 +76,7 @@ I'm deeply interested in how technology, data, and systems can be combined to so
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 </p>
 
 ---
